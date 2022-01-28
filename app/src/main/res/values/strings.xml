@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Lesson 3-Activities</string>
     <string name="enter_meal_amount">Enter Meal Amount</string>
+    <string name="tip_amount">Tip Amount:</string>
+    <string name="total_amount">Total Amount:</string>
+    <string name="_15">15%</string>
+    <string name="tip">Tip %:</string>
 </resources>
